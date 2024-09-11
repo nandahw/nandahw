@@ -4,7 +4,7 @@
 
 Me chamo `Fernanda Felix` e tenho ``19 anos``.
 
-Iniciei meus estudos no IFSP em ``2020`` e atualmente estou no ``4º ano`` do curso de ``Informática``.
+Iniciei meus estudos no IFSP e atualmente estou no ``último ano`` do curso de ``Informática``.
 
 <div>
 
